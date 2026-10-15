@@ -1,7 +1,7 @@
 {
-  "id": "./app-mini-sk-15-10-a",
-  "name": "Mini-SK-15-10-a",
-  "short_name": "Mini-SK-15-1",
+  "id": "./app-minisk1510a",
+  "name": "minisk1510a",
+  "short_name": "minisk1510a",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
