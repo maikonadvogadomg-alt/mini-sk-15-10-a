@@ -1,11 +1,13 @@
-// service-worker.js — gerado pelo Mini SK em 15/10/2026, 11:02:51
+// service-worker.js — gerado pelo Mini SK em 15/10/2026, 11:10:42
 // Não precisa mexer: ele guarda sozinho o que o app usa.
-const PREFIXO = 'sk-mini-sk-';
-const CACHE = PREFIXO + 'mv9lz6iz';
+const PREFIXO = 'sk-mini-sk-15-10-a-';
+const CACHE = PREFIXO + 'mv9m9a4a';
 // Lista feita automaticamente (para funcionar sem internet logo após instalar)
 const GUARDAR = [
   "./",
   "./css/app.css",
+  "./electron/main.cjs",
+  "./electron/preload.cjs",
   "./favicon.ico",
   "./icons/apple-touch-icon.png",
   "./icons/icon-16.png",
@@ -65,6 +67,8 @@ const GUARDAR = [
   "./js/lib/selar.js",
   "./LEIA-ME.md",
   "./manifest.json",
+  "./package.json",
+  "./PLANO.md",
   "./sw.js"
 ];
 

@@ -1,12 +1,12 @@
 {
-  "id": "./",
-  "name": "Mini SK",
-  "short_name": "Mini SK",
+  "id": "./app-mini-sk-15-10-a",
+  "name": "Mini-SK-15-10-a",
+  "short_name": "Mini-SK-15-1",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0f1420",
-  "theme_color": "#0f1420",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
   "lang": "pt-BR",
   "icons": [
     {
@@ -88,7 +88,7 @@
       "purpose": "any"
     }
   ],
-  "description": "Mini SK",
+  "description": "Mini-SK-15-10-a",
   "orientation": "any",
   "dir": "ltr"
 }
