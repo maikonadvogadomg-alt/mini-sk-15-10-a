@@ -1,19 +1,19 @@
 # 📋 Plano do projeto: Mini-SK-15-10-a
 
-_Gerado em 15/10/2026, 11:11:43 — sem IA, lendo os arquivos._
+_Gerado em 15/10/2026, 11:15:33 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
 |---|---|
-| Arquivos | 68 |
-| Linhas | 10.900 |
+| Arquivos | 70 |
+| Linhas | 11.005 |
 | Telas/páginas | 1 |
 | Rotas do backend | 0 |
 | Chamadas do app | 0 |
 | Tabelas do banco | 0 |
 | Variáveis de ambiente | 2 |
 
-**Linguagens:** JavaScript (42), Imagem (15), Imagem SVG (2), Markdown (2), JSON (2), YAML (1), Outros (1), CSS (1), Ícone (1), HTML (1)
+**Linguagens:** JavaScript (42), Imagem (15), JSON (3), YAML (2), Imagem SVG (2), Markdown (2), Outros (1), CSS (1), Ícone (1), HTML (1)
 
 ## 💡 O que fazer (em ordem)
 1. 🧹 Tirar a Replit de 13 arquivo(s) (🏗️ Preparar → Fazer tudo)
@@ -124,6 +124,7 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 ```
 ├─ 📁 .github/
 │  └─ 📁 workflows/
+│     ├─ apk.yml
 │     └─ desktop-exe.yml
 ├─ 📁 css/
 │  └─ app.css
@@ -189,6 +190,7 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 │  ├─ 98-api.js
 │  └─ 99-app.js
 ├─ .gitignore
+├─ apk.config.json
 ├─ favicon.ico
 ├─ index.html
 ├─ LEIA-ME.md
